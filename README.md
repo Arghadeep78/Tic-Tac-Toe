@@ -33,7 +33,7 @@ README.md: This file provides an overview of the project.
 Installation
 Clone the repository to your local machine:
 
-bash: git clone https://github.com/your-username/tic-tac-toe.git
+bash: git clone https://github.com/Arghadeep78/tic-tac-toe.git
 
 Navigate to the project directory:
 
